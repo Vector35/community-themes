@@ -76,7 +76,7 @@
         "dataSymbolColor":                      "brightred",
         "stackVariableColor":                   ["+", "red", "black"],
         "importColor":                          ["+", "lightwhite","red"],
-        "instructionHighlightColor":            ["~", "bblack", "trueblack", 80],
+        "instructionHighlightColor":            ["~", "reddishblack", "trueblack", 80],
         "tokenHighlightColor":                  "trueblack",
         "annotationColor":                      "lightgrey",
         "opcodeColor":                          "yellow",
