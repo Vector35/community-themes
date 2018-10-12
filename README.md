@@ -2,9 +2,9 @@
 
 Welcome to the Binary Ninja Community Themes repository. 
 
-To submit a theme, simply issue a [pull request]() adding your theme file. Sample themes are available from the [api repo](https://github.com/Vector35/binaryninja-api/tree/dev/themes).
+To submit a theme, simply issue a [pull request]() adding your theme file. It is not necessary to add screenshots. We will create previews of your submitted theme so that all screenshots are the same size and show the same information. Sample themes are available from the [api repo](https://github.com/Vector35/binaryninja-api/tree/dev/themes).
 
-## Themes
+## Theme Submissions
 
 ### Gotham
 
