@@ -27,6 +27,13 @@ Life from [Alexeyan](https://github.com/Alexeyan)
 ![Life1](previews/life1.png)
 ![Life2](previews/life2.png)
 
+### Monokai
+
+Monokai from [toolCHAINZ](https://github.com/toolCHAINZ)
+
+![Monokai1](previews/monokai1.png)
+![Monokai2](previews/monokai2.png)
+
 
 ### No Life
 
