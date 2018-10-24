@@ -51,7 +51,7 @@ No Life from [Alexeyan](https://github.com/Alexeyan)
 Orange Dusk from Ben
 
 ![Orange Dusk1](previews/orangedusk1.png)
-![Orange Dusk2](previews/orangedusk1.png)
+![Orange Dusk2](previews/orangedusk2.png)
 
 
 ### Photophore
