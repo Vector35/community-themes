@@ -78,6 +78,14 @@ Shatterdeep from [mechanicalnull](https://github.com/mechanicalnull)
 ![Shatterdeep2](previews/shatterdeep2.png)
 
 
+### Synthwave
+
+Synthwave from [toolCHAINZ](https://github.com/toolCHAINZ)
+
+![Synthwave1](previews/synthwave1.png)
+![Synthwave2](previews/synthwave2.png)
+
+
 ### Throwback Green
 
 Throwback Green from [mechanicalnull](https://github.com/mechanicalnull)
