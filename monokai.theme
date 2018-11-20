@@ -69,7 +69,7 @@
         "stackVariableColor":                   "monokai-yellow",
         "importColor":                          "monokai-purple-light",
         "instructionHighlightColor":            "monokai-gray",
-        "tokenHighlightColor":                  ["~", "monokai-blue-light", "monokai-gray-lighter", 0],
+        "tokenHighlightColor":                  ["~", "monokai-gray", "monokai-gray-lightest", 230],
         "annotationColor":                      "monokai-gray-light",
         "opcodeColor":                          "monokai-yellow-dark",
         "linearDisassemblyFunctionHeaderColor": "monokai-gray-dark",
