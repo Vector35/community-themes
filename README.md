@@ -78,6 +78,13 @@ from [mechanicalnull](https://github.com/mechanicalnull)
 ![Shatterdeep2](previews/shatterdeep2.png)
 
 
+### Straylight
+from [mechanicalnull](https://github.com/mechanicalnull)
+
+![Straylight1](previews/straylight1.png)
+![Straylight2](previews/straylight2.png)
+
+
 ### Synthwave
 from [toolCHAINZ](https://github.com/toolCHAINZ)
 
