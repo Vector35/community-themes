@@ -18,8 +18,6 @@
 		"disabled": [100, 106, 175],
 		"disabledDarkBlue": [0, 0, 95],
 		"content": [0, 212, 220],
-		"contentDarker": [0, 200, 205],
-		"contentOrig": [0, 212, 220],
 		"red": [238, 12, 35],
 		"blue": [101, 149, 200],
 		"cyan": [0, 255, 253],
@@ -29,9 +27,7 @@
 		"magenta": [232, 103, 201],
 		"green": [33, 154, 87],
 		"brightBlue": [89, 92, 239],
-		"brightGreen": [10, 235, 133],
-		"brightGreenShadeDarker": [8, 219, 126],
-		"brightGreenOrig": [12, 255, 149]
+		"brightGreen": [10, 235, 133]
 	
 },
 

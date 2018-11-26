@@ -69,7 +69,7 @@
         "codeSymbolColor":                      "blue",
         "dataSymbolColor":                      ["+", "orange", "~", "yellow", [220, 5, 5], 120],
         "stackVariableColor":                   ["+", "green", "content"],
-        "importColor":                          ["~", "red", "orange", 110],
+        "importColor":                          ["~", "red", "orange", 70],
         "instructionHighlightColor":            ["+", "selection", "backgroundDark"],
         "tokenHighlightColor":                  ["+", "red", "background"],
         "annotationColor":                      ["~", "content", "background", 100],
