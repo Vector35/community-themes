@@ -4,8 +4,16 @@ Welcome to the Binary Ninja Community Themes repository.
 
 To submit a theme, simply issue a [pull request](https://github.com/Vector35/community-themes/pulls) adding your theme file. It is not necessary to add screenshots; we'll create the previews for you and post them below. Sample themes are available from the [api repo](https://github.com/Vector35/binaryninja-api/tree/dev/themes).
 
+Below the community theme submissions you will find previews for themes that come default on Binary Ninja.
 
 ## Theme Submission Previews
+
+### Blood Dragon
+from [mechanicalnull](https://github.com/mechanicalnull)
+
+![Blood Dragon1](previews/blooddragon1.png)
+![Blood Dragon2](previews/blooddragon2.png)
+
 
 ### Gotham
 from [zznop](https://github.com/zznop)
@@ -87,7 +95,7 @@ from [mechanicalnull](https://github.com/mechanicalnull)
 
 # Binary Ninja Default Themes
 
-Now for the themes that come default on Binary Ninja:
+Here are the themes that come default on Binary Ninja.
 
 
 ### Classic
