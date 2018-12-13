@@ -8,6 +8,13 @@ Below the community theme submissions you will find previews for themes that com
 
 ## Theme Submission Previews
 
+### 35c3
+from [Alexeyan](https://github.com/Alexeyan)
+
+![35c31](previews/35c31.png)
+![35c32](previews/35c32.png)
+
+
 ### Blood Dragon
 from [mechanicalnull](https://github.com/mechanicalnull)
 
