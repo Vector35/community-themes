@@ -77,6 +77,7 @@
         "linearDisassemblyBlockColor":          "synthwave-neutral-dark",
         "linearDisassemblyNoteColor":           "synthwave-neutral",
         "linearDisassemblySeparatorColor":      "synthwave-highlight",
+        "miniGraphOverlayColor":                "synthwave-neutral-light",
         "stringColor":                          "synthwave-orange",
         "typeNameColor":                        "synthwave-magenta",
         "fieldNameColor":                       ["~", "synthwave-purple-light", "synthwave-neutral-light", 180],
