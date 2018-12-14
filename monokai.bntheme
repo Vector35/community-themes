@@ -76,6 +76,7 @@
         "linearDisassemblyBlockColor":          "monokai-gray-darker",
         "linearDisassemblyNoteColor":           "monokai-gray-dark",
         "linearDisassemblySeparatorColor":      "monokai-gray",
+        "miniGraphOverlayColor":                "monokai-gray-lightest",
         "stringColor":                          "monokai-orange",
         "typeNameColor":                        "monokai-magenta",
         "fieldNameColor":                       "monokai-green",
