@@ -28,6 +28,13 @@ from [mechanicalnull](https://github.com/mechanicalnull)
 ![Blood Dragon2](previews/blooddragon2.png)
 
 
+### CMYK
+from [toolCHAINZ](https://github.com/toolCHAINZ)
+
+![CMYK](previews/cmyk1.png)
+![CMYK](previews/cmyk2.png)
+
+
 ### Gotham
 from [zznop](https://github.com/zznop)
 
