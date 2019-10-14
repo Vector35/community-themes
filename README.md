@@ -56,6 +56,13 @@ from [Alexeyan](https://github.com/Alexeyan)
 ![Life2](previews/life2.png)
 
 
+### Monochrome
+from [Alexeyan](https://github.com/Alexeyan)
+
+![Monochrome1](previews/monochrome1.png)
+![Monochrome2](previews/monochrome2.png)
+
+
 ### Monokai
 from [toolCHAINZ](https://github.com/toolCHAINZ)
 
