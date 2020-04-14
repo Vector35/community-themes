@@ -42,6 +42,13 @@ from [zznop](https://github.com/zznop)
 ![Gotham2](previews/gotham2.png)
 
 
+### Gruvbox
+from [novafacing](https://github.com/novafacing)
+
+![Gruvbox](previews/gruvbox1.png)
+![Gruvbox](previews/gruvbox2.png)
+
+
 ### Liège
 from [withzombies](https://github.com/withzombies)
 
