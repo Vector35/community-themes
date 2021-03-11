@@ -84,6 +84,13 @@ from [toolCHAINZ](https://github.com/toolCHAINZ)
 ![Monokai2](previews/monokai2.png)
 
 
+### Nord
+from [RobinJadoul](https://github.com/RobinJadoul)
+
+![Nord1](previews/nord1.png)
+![Nord2](previews/nord2.png)
+
+
 ### No Life
 from [Alexeyan](https://github.com/Alexeyan)
 
@@ -110,6 +117,13 @@ from [yhql](https://github.com/yhql)
 
 ![Red Ninja1](previews/redninja1.png)
 ![Red Ninja2](previews/redninja2.png)
+
+
+### Reflection
+from [jonpalmisc](https://github.com/jonpalmisc)
+
+![Reflection1](previews/reflection1.png)
+![Reflection2](previews/reflection2.png)
 
 
 ### Shatterdeep
