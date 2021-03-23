@@ -7,7 +7,7 @@
     "base01": [63, 63, 70],
     "base02": [75, 99, 133],
     "base03": [113, 113, 122],
-    "base04": [212, 212, 216],
+    "base04": [39, 39, 42],
     "base05": [228, 228, 231],
     "base06": [244, 244, 245],
     "base07": [250, 250, 250],
@@ -98,7 +98,7 @@
     "magentaStandardHighlightColor": "base0A",
     "yellowStandardHighlightColor": "base0F",
     "orangeStandardHighlightColor": "base0C",
-    "whiteStandardHighlightColor": "base04",
-    "blackStandardHighlightColor": "base02"
+    "whiteStandardHighlightColor": "base05",
+    "blackStandardHighlightColor": "base04"
   }
 }
