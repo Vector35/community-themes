@@ -1,6 +1,7 @@
 {
   "name": "Reflection",
   "style": "Fusion",
+  "styleSheet": "QMenu { background-color: #27272A; border: 1px solid #52525B; } QMenu::separator { background-color: #3F3F46; height: 1px; } QMenu::item:selected { background-color: #4B6385; } QMenu::item:disabled { color: #71717A; }",
 
   "colors": {
     "base00": [39, 39, 42],
@@ -36,6 +37,11 @@
     "Highlight": "base02",
     "HighlightedText": "base05",
     "Light": "base03"
+  },
+
+  "disabledPalette": {
+    "Button": ["~", "base00", "base01", 191],
+    "ButtonText": "base03"
   },
 
   "theme-colors": {
