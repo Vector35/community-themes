@@ -42,7 +42,9 @@
 
   "disabledPalette": {
     "Button": ["~", "dark", "semi-dark", 191],
-    "ButtonText": "semi-light"
+    "ButtonText": "semi-light",
+    "Text": "dodrant-light",
+    "WindowText": "dodrant-light"
   },
 
   "theme-colors": {
