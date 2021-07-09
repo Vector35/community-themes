@@ -8,6 +8,8 @@ To install a single theme, simply download the `bntheme` file into the `themes/`
 
 Alternatively, clone the entire community repository into a folder called `community-themes` inside of your user folder [user folder](https://docs.binary.ninja/getting-started.html#user-folder) to be able to choose from all of them.
 
+Once installed, you can choose your desired theme via the `ui.theme` setting (open Settings and search for "Theme").
+
 ## Contributing Themes
 
 To submit a theme, simply issue a [pull request](https://github.com/Vector35/community-themes/pulls) adding your theme file. It is not necessary to add screenshots; we'll create the previews for you and post them below since we prefer them to show uniform content. Sample themes are available from the [api repo](https://github.com/Vector35/binaryninja-api/tree/dev/themes).
