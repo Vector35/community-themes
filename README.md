@@ -6,9 +6,9 @@ Welcome to the Binary Ninja Community Themes repository.
 
 To install a single theme, simply download the `bntheme` file into the `themes/` or `community-themes/` subfolders of your [user folder](https://docs.binary.ninja/getting-started.html#user-folder) (you might need to make the folder).
 
-Alternatively, clone the entire community repository into a folder called `community-themes` inside of your user folder [user folder](https://docs.binary.ninja/getting-started.html#user-folder) to be able to choose from all of them.
+Alternatively, clone the entire community repository into a folder called `community-themes` inside of your [user folder](https://docs.binary.ninja/getting-started.html#user-folder) to be able to choose any community theme.
 
-Once installed, you can choose your desired theme via the `ui.theme` setting (open Settings and search for "Theme").
+Once installed, you can choose your desired theme via the `ui.theme` setting (open [Settings](https://docs.binary.ninja/getting-started.html#settings) and search for "Theme").
 
 ## Contributing Themes
 
