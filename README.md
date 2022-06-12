@@ -58,6 +58,12 @@ from [novafacing](https://github.com/novafacing)
 ![Gruvbox](previews/gruvbox2.png)
 
 
+### Gruvbox Material
+from [novafacing](https://github.com/novafacing)
+
+![gruvbox-material](previews/gruvbox-material.png)
+
+
 ### Liège
 from [withzombies](https://github.com/withzombies)
 
