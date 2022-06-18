@@ -72,6 +72,18 @@ from [Alexeyan](https://github.com/Alexeyan)
 ![Life2](previews/life2.png)
 
 
+### Magic Dark
+from [magicbuffer](https://github.com/magicbuffer)
+
+![magic-dark](previews/magic-dark.png)
+
+
+### Magic Darkest
+from [magicbuffer](https://github.com/magicbuffer)
+
+![magic-darkest](previews/magic-darkest.png)
+
+
 ### Monochrome
 from [Alexeyan](https://github.com/Alexeyan)
 
