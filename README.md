@@ -30,6 +30,34 @@ from [mechanicalnull](https://github.com/mechanicalnull)
 ![Blood Dragon2](previews/blooddragon2.png)
 
 
+### Catppuccin Mocha
+from [Krypton](https://github.com/kkrypt0nn)
+
+![Catppuccin Mocha1](previews/catppuccin-mocha1.png)
+![Catppuccin Mocha2](previews/catppuccin-mocha2.png)
+
+
+### Catppuccin Macchiato
+from [Krypton](https://github.com/kkrypt0nn)
+
+![Catppuccin Macchiato1](previews/catppuccin-macchiato1.png)
+![Catppuccin Macchiato2](previews/catppuccin-macchiato2.png)
+
+
+### Catppuccin Frappé
+from [Krypton](https://github.com/kkrypt0nn)
+
+![Catppuccin Frappé1](previews/catppuccin-frappe1.png)
+![Catppuccin Frappé2](previews/catppuccin-frappe2.png)
+
+
+### Catppuccin Latte
+from [Krypton](https://github.com/kkrypt0nn)
+
+![Catppuccin Latte1](previews/catppuccin-latte1.png)
+![Catppuccin Latte2](previews/catppuccin-latte2.png)
+
+
 ### CMYK
 from [toolCHAINZ](https://github.com/toolCHAINZ)
 
