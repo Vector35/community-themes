@@ -84,7 +84,7 @@ from [novafacing](https://github.com/novafacing)
 ### Gruvbox Material
 from [novafacing](https://github.com/novafacing)
 
-![gruvbox-material](previews/gruvbox-material.png)
+![Gruvbox-Material](previews/gruvbox-material.png)
 
 
 ### Liège
@@ -104,13 +104,13 @@ from [Alexeyan](https://github.com/Alexeyan)
 ### Magic Dark
 from [magicbuffer](https://github.com/magicbuffer)
 
-![magic-dark](previews/magic-dark.png)
+![Magic-Dark](previews/magic-dark.png)
 
 
 ### Magic Darkest
 from [magicbuffer](https://github.com/magicbuffer)
 
-![magic-darkest](previews/magic-darkest.png)
+![Magic-Darkest](previews/magic-darkest.png)
 
 
 ### Monochrome
