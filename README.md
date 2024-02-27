@@ -33,24 +33,28 @@ from [mechanicalnull](https://github.com/mechanicalnull)
 ### Catppuccin Mocha
 from [Krypton](https://github.com/kkrypt0nn)
 
-![Catppuccin Mocha](previews/catppuccin-mocha.png)
+![Catppuccin Mocha1](previews/catppuccinmocha1.png)
+![Catppuccin Mocha2](previews/catppuccinmocha2.png)
 
 ### Catppuccin Macchiato
 from [Krypton](https://github.com/kkrypt0nn)
 
-![Catppuccin Macchiato](previews/catppuccin-macchiato.png)
+![Catppuccin Macchiato1](previews/catppuccinmacchiato1.png)
+![Catppuccin Macchiato2](previews/catppuccinmacchiato2.png)
 
 
 ### Catppuccin Frappé
 from [Krypton](https://github.com/kkrypt0nn)
 
-![Catppuccin Frappé](previews/catppuccin-frappe.png)
+![Catppuccin Frappé1](previews/catppuccinfrappé1.png)
+![Catppuccin Frappé2](previews/catppuccinfrappé2.png)
 
 
 ### Catppuccin Latte
 from [Krypton](https://github.com/kkrypt0nn)
 
-![Catppuccin Latte](previews/catppuccin-latte.png)
+![Catppuccin Latte1](previews/catppuccinlatte1.png)
+![Catppuccin Latte2](previews/catppuccinlatte2.png)
 
 
 ### CMYK
@@ -84,14 +88,15 @@ from [novafacing](https://github.com/novafacing)
 ### Gruvbox Material
 from [novafacing](https://github.com/novafacing)
 
-![Gruvbox-Material](previews/gruvbox-material.png)
+![Gruvbox-Material1](previews/gruvboxmaterial1.png)
+![Gruvbox-Material2](previews/gruvboxmaterial2.png)
 
 
 ### Liège
 from [withzombies](https://github.com/withzombies)
 
-![Liege1](previews/liege1.png)
-![Liege2](previews/liege2.png)
+![Liège1](previews/liège1.png)
+![Liège2](previews/liège2.png)
 
 
 ### Life
@@ -104,13 +109,15 @@ from [Alexeyan](https://github.com/Alexeyan)
 ### Magic Dark
 from [magicbuffer](https://github.com/magicbuffer)
 
-![Magic-Dark](previews/magic-dark.png)
+![Magic-Dark1](previews/magicdark1.png)
+![Magic-Dark2](previews/magicdark2.png)
 
 
 ### Magic Darkest
 from [magicbuffer](https://github.com/magicbuffer)
 
-![Magic-Darkest](previews/magic-darkest.png)
+![Magic-Darkest1](previews/magicdarkest1.png)
+![Magic-Darkest2](previews/magicdarkest2.png)
 
 
 ### Monochrome
@@ -211,7 +218,6 @@ For more, check out these [Base16 themes](https://github.com/evanrichter/base16-
 
 Here are the themes that come default on Binary Ninja.
 
-
 ### Classic
 
 ![Classic1](previews/classic1.png)
@@ -223,11 +229,38 @@ Here are the themes that come default on Binary Ninja.
 ![Dark1](previews/dark1.png)
 ![Dark2](previews/dark2.png)
 
-
 ### High Contrast
 
 ![High Contrast1](previews/highcontrast1.png)
 ![High Contrast2](previews/highcontrast2.png)
+
+### Ninja Dark
+
+![Ninja Dark1](previews/ninjadark1.png)
+![Ninja Dark2](previews/ninjadark2.png)
+
+### Ninja Edit
+
+The current default as of Binary Ninja 4.0.
+
+![Ninja Edit1](previews/ninjaedit1.png)
+![Ninja Edit2](previews/ninjaedit2.png)
+
+### Reflection
+
+![Reflection1](previews/reflection1.png)
+![Reflection2](previews/reflection2.png)
+
+### Slushee Dark
+
+![Slushee Dark1](previews/slusheedark1.png)
+![Slushee Dark2](previews/slusheedark2.png)
+
+
+### Slushee Light
+
+![Slushee Light1](previews/slusheelight1.png)
+![Slushee Light2](previews/slusheelight2.png)
 
 
 ### Solarized Dark
@@ -240,3 +273,8 @@ Here are the themes that come default on Binary Ninja.
 
 ![Solarized Light1](previews/solarizedlight1.png)
 ![Solarized Light2](previews/solarizedlight2.png)
+
+### Summer
+
+![Summer1](previews/summer1.png)
+![Summer2](previews/summer2.png)
