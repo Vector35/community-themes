@@ -169,13 +169,6 @@ from [yhql](https://github.com/yhql)
 ![Red Ninja2](previews/redninja2.png)
 
 
-### Reflection
-from [jonpalmisc](https://github.com/jonpalmisc)
-
-![Reflection1](previews/reflection1.png)
-![Reflection2](previews/reflection2.png)
-
-
 ### Shatterdeep
 from [mechanicalnull](https://github.com/mechanicalnull)
 
@@ -247,6 +240,9 @@ The current default as of Binary Ninja 4.0.
 ![Ninja Edit2](previews/ninjaedit2.png)
 
 ### Reflection
+from [jonpalmisc](https://github.com/jonpalmisc)
+
+Added as an official plugin but still available separately.
 
 ![Reflection1](previews/reflection1.png)
 ![Reflection2](previews/reflection2.png)
