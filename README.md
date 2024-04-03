@@ -23,11 +23,25 @@ from [Alexeyan](https://github.com/Alexeyan)
 ![35c32](previews/35c32.png)
 
 
+### Black Ocean
+from [awt-256](https://github.com/awt-256)
+
+![Black Ocean1](previews/blackocean1.png)
+![Black Ocean2](previews/blackocean2.png)
+
+
 ### Blood Dragon
 from [mechanicalnull](https://github.com/mechanicalnull)
 
 ![Blood Dragon1](previews/blooddragon1.png)
 ![Blood Dragon2](previews/blooddragon2.png)
+
+
+### Blue Steel
+from [toolCHAINZ](https://github.com/toolCHAINZ)
+
+![Blue Steel1](previews/bluesteel1.png)
+![Blue Steel2](previews/bluesteel2.png)
 
 
 ### Catppuccin Mocha
@@ -69,6 +83,13 @@ from [phoomparin](https://github.com/phoomparin)
 
 ![Dracula1](previews/dracula1.png)
 ![Dracula2](previews/dracula2.png)
+
+
+### Gingerbread
+from [toolCHAINZ](https://github.com/toolCHAINZ)
+
+![Gingerbread1](previews/gingerbread1.png)
+![Gingerbread2](previews/gingerbread2.png)
 
 
 ### Gotham
@@ -167,6 +188,13 @@ from [yhql](https://github.com/yhql)
 
 ![Red Ninja1](previews/redninja1.png)
 ![Red Ninja2](previews/redninja2.png)
+
+
+### Resolve
+from [robert-yates](https://github.com/robert-yates)
+
+![Resolve1](previews/resolve1.png)
+![Resolve2](previews/resolve2.png)
 
 
 ### Shatterdeep
