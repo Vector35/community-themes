@@ -4,7 +4,7 @@
   "styleSheet": "QMenu { background-color: #27272A; border: 1px solid #52525B; } QMenu::separator { background-color: #515158; height: 1px; } QMenu::item:selected { background-color: #4D6B95; } QMenu::item:disabled { color: #71717A; }",
 
   "colors": {
-    "dark": "#27272A",
+    "dark": "#17181A",
     "semi-dark": "#3F3F46",
     "semi-light": [113, 113, 122],
     "dodrant-light": [161, 161, 170],
@@ -20,16 +20,16 @@
     "pink": "#F0ABFC",
     "blue": "#7DD3FC",
     "indigo": "#A5B4FC",
-    "yellow": [253, 230, 138],
+    "yellow": "#F5DF86",
 
-    "inner_panels": "#17181A",
-    "header": "#28282E",
-    "block": "#212126"
+    "inner_panels": "#101012",
+    "header": "#1A161F",
+    "block": "#1D1F21"
   },
 
   "palette": {
     "Window": "#212126",
-    "WindowText": "light",
+    "WindowText": "#a0c8c8",
     "Base": "inner_panels",
     "AlternateBase": "#1C1C1F",
     "ToolTipBase": "semi-dark",
@@ -58,7 +58,7 @@
     "selectionColor": "highlight",
     "outlineColor": "light",
 
-    "addressColor": "green",
+    "addressColor": "#BC9BC8",
     "registerColor": "blue",
     "numberColor": "green",
     "codeSymbolColor": "yellow",
