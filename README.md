@@ -10,6 +10,10 @@ Alternatively, clone the entire community repository into a folder called `commu
 
 Once installed, you can choose your desired theme via the `ui.theme` setting (open [Settings](https://docs.binary.ninja/getting-started.html#settings) and search for "Theme").
 
+### Bundled themes
+
+The `bundled/` subfolder contains the user themes (`.bntheme`) shipped by default with Binary Ninja, they should not be installed, as such they are located in a subfolder to prevent automatic loading.
+
 ## Contributing Themes
 
 To submit a theme, simply issue a [pull request](https://github.com/Vector35/community-themes/pulls) adding your theme file. It is not necessary to add screenshots; we'll create the previews for you and post them below since we prefer them to show uniform content. Sample themes are available from the [api repo](https://github.com/Vector35/binaryninja-api/tree/dev/themes).
