@@ -85,6 +85,15 @@ from [phoomparin](https://github.com/phoomparin)
 ![Dracula2](previews/dracula2.png)
 
 
+### Dracula's Revenge
+from [CX330Blake](https://github.com/CX330Blake)
+
+(Released under an MIT license originally at [https://github.com/dracula/binary-ninja](https://github.com/dracula/binary-ninja))
+
+![DraculasRevenge1](previews/draculas-revenge1.png)
+![DraculasRevenge2](previews/draculas-revenge2.png)
+
+
 ### Gingerbread
 from [toolCHAINZ](https://github.com/toolCHAINZ)
 
