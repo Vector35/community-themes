@@ -311,3 +311,9 @@ Added as an official plugin but still available separately.
 
 ![Summer1](previews/summer1.png)
 ![Summer2](previews/summer2.png)
+
+
+### Ghibli
+
+![ghibli](previews/ghibli.png)
+
