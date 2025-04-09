@@ -311,3 +311,11 @@ Added as an official plugin but still available separately.
 
 ![Summer1](previews/summer1.png)
 ![Summer2](previews/summer2.png)
+
+
+### Ghibli
+from [Leland](https://github.com/loganleland)
+
+![ghibli1](previews/ghibli1.png)
+![ghibli2](previews/ghibli2.png)
+
