@@ -314,6 +314,7 @@ Added as an official plugin but still available separately.
 
 
 ### Ghibli
+from [Leland](https://github.com/loganleland)
 
 ![ghibli1](previews/ghibli1.png)
 ![ghibli2](previews/ghibli2.png)
